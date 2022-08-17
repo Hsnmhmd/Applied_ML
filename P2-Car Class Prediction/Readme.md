@@ -18,13 +18,13 @@
 	-Line Charts
 	
 # Conclusion #
-	* Increasing the amount of data to train the model with increases the accuracy score.
-	* Different shuffles of data result in different results
-	* Using Different metrics for calculating the distance may result in slight changes in the output
-	* The best k value is dependent on the data
+	* Increasing the amount of data to train the model with increases the accuracy score. *
+	* Different shuffles of data result in different results *
+	* Using Different metrics for calculating the distance may result in slight changes in the output *
+	* The best k value is dependent on the data *
 	* "If for example brute force was used as the searching algorithm, during the training stage, 
 		KNN classifier just remembers all the training samples. During the testing stage,
 		each test sample need to find its nearest K neighbour, meaning that the classifier 
 		needs to calcuate the distance between the test sample to all the training samples.
 		So, changing the number of K would not lead to significant time difference during 
-		the training. During the testing, using larger dataset usually needs to more time."
+		the training. During the testing, using larger dataset usually needs to more time." *
