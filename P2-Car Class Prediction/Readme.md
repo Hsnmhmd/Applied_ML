@@ -18,7 +18,7 @@
 	-Line Charts
 	
 # Conclusion #
-	* List item * Increasing the amount of data to train the model with increases the accuracy score. 
+	* Increasing the amount of data to train the model with increases the accuracy score. *
 	* Different shuffles of data result in different results *
 	* Using Different metrics for calculating the distance may result in slight changes in the output *
 	* The best k value is dependent on the data *
